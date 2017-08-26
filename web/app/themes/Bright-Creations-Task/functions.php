@@ -26,3 +26,6 @@ foreach ($sage_includes as $file) {
   require_once $filepath;
 }
 unset($file, $filepath);
+
+require_once('Moviess_post.php');
+require_once('Articles-Post.php');
