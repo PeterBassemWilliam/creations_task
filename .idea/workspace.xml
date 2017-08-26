@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5666d08-f8d7-4f1a-928c-7c661e4c38d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/00cac5dbc5275b05e88d66b8d70b8314-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/00cac5dbc5275b05e88d66b8d70b8314-202x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/00cac5dbc5275b05e88d66b8d70b8314.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/Avatar-2-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/Avatar-2-204x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/Avatar-2-697x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/Avatar-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C7nzTmwV4AANCGh-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C7nzTmwV4AANCGh-203x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C7nzTmwV4AANCGh-691x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C7nzTmwV4AANCGh-768x1138.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C7nzTmwV4AANCGh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C9nFQsIVoAEit4O-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C9nFQsIVoAEit4O-225x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C9nFQsIVoAEit4O-768x1023.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C9nFQsIVoAEit4O-769x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/C9nFQsIVoAEit4O.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/Iron-Man-4-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/Iron-Man-4-200x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/Iron-Man-4-683x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/Iron-Man-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/beneath-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/beneath-225x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/beneath.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/marvel_s_thor__ragnarok___2017__poster_by_macschaer-d9eotj9-rdp-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/marvel_s_thor__ragnarok___2017__poster_by_macschaer-d9eotj9-rdp-203x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/marvel_s_thor__ragnarok___2017__poster_by_macschaer-d9eotj9-rdp-692x1024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/marvel_s_thor__ragnarok___2017__poster_by_macschaer-d9eotj9-rdp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/maxresdefault-150x150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/maxresdefault-202x300.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/uploads/2017/08/maxresdefault.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/uploads/.gitkeep" afterPath="$PROJECT_DIR$/web/app/uploads/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Movie.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php" afterPath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/single.php" afterPath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/single.php" />
     </list>
     <ignored path="bedrock.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,11 +26,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+            <state relative-caret-position="338">
+              <caret line="41" column="46" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="67" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Single-Movie.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Movie.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -112,6 +101,8 @@
         <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Articles-Post.php" />
         <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/functions.php" />
         <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/single.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Movie.php" />
       </list>
     </option>
   </component>
@@ -208,6 +199,54 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bedrock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bedrock" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bedrock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bedrock" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bright-Creations-Task" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -257,7 +296,7 @@
       <updated>1503672734945</updated>
       <workItem from="1503672736221" duration="859000" />
       <workItem from="1503752855491" duration="615000" />
-      <workItem from="1503768848354" duration="10391000" />
+      <workItem from="1503768848354" duration="12462000" />
     </task>
     <task id="LOCAL-00001" summary="user reg">
       <created>1503782460108</created>
@@ -301,17 +340,24 @@
       <option name="project" value="LOCAL" />
       <updated>1503786503813</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Make Movies In Home Page Dynamic">
+      <created>1503789018753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1503789018753</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11865000" />
+    <option name="totallyTimeSpent" value="13936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="24" width="1313" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24904798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -346,7 +392,8 @@
     <MESSAGE value="importing html theme" />
     <MESSAGE value="Create Articles &amp; Movies Custom Posts" />
     <MESSAGE value="Add ACF &amp; ACF Repeater Plugins" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ACF &amp; ACF Repeater Plugins" />
+    <MESSAGE value="Make Movies In Home Page Dynamic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make Movies In Home Page Dynamic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -417,10 +464,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="67" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        <state relative-caret-position="338">
+          <caret line="41" column="46" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Movie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
           <folding />
         </state>
       </provider>
