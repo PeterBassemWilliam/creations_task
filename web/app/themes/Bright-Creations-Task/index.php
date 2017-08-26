@@ -33,38 +33,24 @@
   <section id="two">
     <h2>Movies</h2>
     <div class="row">
-      <article class="6u 12u$(xsmall) work-item">
-        <a href="images/fulls/01.jpg" class="image fit thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/thumbs/Iron-Man-4.jpg" alt="" /></a>
-        <h3>Magna sed consequat tempus</h3>
-        <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-      </article>
-      <article class="6u$ 12u$(xsmall) work-item">
-        <a href="images/fulls/02.jpg" class="image fit thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/thumbs/00cac5dbc5275b05e88d66b8d70b8314.jpg" alt="" /></a>
-        <h3>Ultricies lacinia interdum</h3>
-        <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-      </article>
-      <article class="6u 12u$(xsmall) work-item">
-        <a href="images/fulls/03.jpg" class="image fit thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/thumbs/C7nzTmwV4AANCGh.jpg" alt="" /></a>
-        <h3>Tortor metus commodo</h3>
-        <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-      </article>
-      <article class="6u$ 12u$(xsmall) work-item">
-        <a href="images/fulls/04.jpg" class="image fit thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/thumbs/marvel_s_thor__ragnarok___2017__poster_by_macschaer-d9eotj9-rdp.jpg" alt="" /></a>
-        <h3>Quam neque phasellus</h3>
-        <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-      </article>
-      <article class="6u 12u$(xsmall) work-item">
-        <a href="images/fulls/05.jpg" class="image fit thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/thumbs/maxresdefault.jpg" alt="" /></a>
-        <h3>Nunc enim commodo aliquet</h3>
-        <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-      </article>
-      <article class="6u$ 12u$(xsmall) work-item">
-        <a href="images/fulls/06.jpg" class="image fit thumb"><img src="<?php echo get_template_directory_uri(); ?>/images/thumbs/Avatar-2.jpg" alt="" /></a>
-        <h3>Risus ornare lacinia</h3>
-        <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-      </article>
+      <?php
+      $args = array( 'post_type' => 'moviess', 'posts_per_page' => 1000000 );
+      $loop = new WP_Query( $args );
+      while ( $loop->have_posts() ) : $loop->the_post();
+        $title = get_the_title();
+        $content = apply_filters('the_content', $post->post_content);
+        $image = get_the_post_thumbnail_url();
+        $url = get_permalink();
+        ?>
+        <article class="6u 12u$(xsmall) work-item">
+          <a href="<?php echo $image; ?>" class="image fit thumb"><img src="<?php echo $image; ?>" alt="" /></a>
+          <a href="<?php echo $url; ?>"><h3><?php echo $title; ?></h3></a>
+          <p><?php echo $content; ?></p>
+        </article>
+        <?php
+      endwhile;
+      ?>
     </div>
-
   </section>
 
 
