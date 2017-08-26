@@ -1,7 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5666d08-f8d7-4f1a-928c-7c661e4c38d1" name="Default" comment="Create Articles &amp; Movies Custom Posts">
+    <list default="true" id="b5666d08-f8d7-4f1a-928c-7c661e4c38d1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-bg_flat_55_5bc6f5_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-bg_highlight-soft_0_444444_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/add-ons/cf7-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/add-ons/date-time-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/add-ons/flexible-content-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/add-ons/gallery-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/add-ons/google-maps-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/add-ons/gravity-forms-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/add-ons/options-page-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/add-ons/repeater-field-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/arrows@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/wpspin_light.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/images/wpspin_light@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-bg_BG.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-cs_CZ.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-cy_GB.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-de_DE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-es_ES.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-fa_IR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-fi_FI.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-fr_FR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-he_IL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-id_ID.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-it_IT.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-ja.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-nl_NL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-pl_PL.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-pt_BR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-pt_PT.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-ru_RU.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-sk_SK.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-sr_RS.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-sv_SE.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-tr_TR.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-uk.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-zh_CN.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/screenshot-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/screenshot-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/screenshot-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/screenshot-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/acf-repeater/acf-repeater-update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/acf-repeater/acf-repeater.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/acf-repeater/css/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/acf-repeater/js/field-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/acf-repeater/js/input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/acf-repeater/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/acf-repeater/repeater.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/acf-repeater/views/field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/acf-repeater/views/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/acf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/actions/export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/addons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/everything_fields.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/field_group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/field_groups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/revisions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/third_party.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/controllers/upgrade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/_base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/_functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/checkbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/color_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/date_picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/jquery.ui.datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/date_picker/style.date_picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/dummy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/google-map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/number.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/page_link.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/password.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/post_object.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/radio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/relationship.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/tab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/textarea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/true_false.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/fields/wysiwyg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/views/meta_box_fields.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/views/meta_box_location.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/core/views/meta_box_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/css/acf.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/css/field-group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/css/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/field-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/field-group.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/_listener.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/_listener.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/acf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/color-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/date-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/google-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/radio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/relationship.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/input/wysiwyg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/js/tinymce.code.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-bg_BG.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-cs_CZ.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-cy_GB.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-de_DE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-es_ES.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-fa_IR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-fi_FI.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-fr_FR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-he_IL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-id_ID.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-it_IT.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-ja.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-nl_NL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-pl_PL.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-pt_BR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-pt_PT.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-ru_RU.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-sk_SK.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-sr_RS.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-sv_SE.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-tr_TR.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-uk.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf-zh_CN.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/lang/acf.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/plugins/advanced-custom-fields/readme.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bedrock.iws" />
@@ -294,7 +449,7 @@
       <updated>1503672734945</updated>
       <workItem from="1503672736221" duration="859000" />
       <workItem from="1503752855491" duration="615000" />
-      <workItem from="1503768848354" duration="8668000" />
+      <workItem from="1503768848354" duration="8755000" />
     </task>
     <task id="LOCAL-00001" summary="user reg">
       <created>1503782460108</created>
@@ -324,11 +479,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503786234088</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add ACF &amp; ACF Repeater Plugins">
+      <created>1503786396540</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1503786396540</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10142000" />
+    <option name="totallyTimeSpent" value="10229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="24" width="1313" height="744" extended-state="6" />
@@ -368,7 +530,8 @@
     <MESSAGE value="user reg" />
     <MESSAGE value="importing html theme" />
     <MESSAGE value="Create Articles &amp; Movies Custom Posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Articles &amp; Movies Custom Posts" />
+    <MESSAGE value="Add ACF &amp; ACF Repeater Plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ACF &amp; ACF Repeater Plugins" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
