@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5666d08-f8d7-4f1a-928c-7c661e4c38d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Movie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Article.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/single.php" afterPath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php" afterPath="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php" />
     </list>
     <ignored path="bedrock.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +29,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="41" column="46" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="46" />
+            <state relative-caret-position="146">
+              <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Single-Article.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Article.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Single-Movie.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Single-Movie.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Movie.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
-              <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+              <caret line="89" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,9 +110,10 @@
         <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Moviess_post.php" />
         <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Articles-Post.php" />
         <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/functions.php" />
-        <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php" />
         <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/single.php" />
         <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Movie.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Article.php" />
       </list>
     </option>
   </component>
@@ -296,7 +307,7 @@
       <updated>1503672734945</updated>
       <workItem from="1503672736221" duration="859000" />
       <workItem from="1503752855491" duration="615000" />
-      <workItem from="1503768848354" duration="12462000" />
+      <workItem from="1503768848354" duration="14191000" />
     </task>
     <task id="LOCAL-00001" summary="user reg">
       <created>1503782460108</created>
@@ -347,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503789018753</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Movies Single Page">
+      <created>1503791073824</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1503791073824</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13936000" />
+    <option name="totallyTimeSpent" value="15665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="24" width="1313" height="744" extended-state="6" />
@@ -393,7 +411,8 @@
     <MESSAGE value="Create Articles &amp; Movies Custom Posts" />
     <MESSAGE value="Add ACF &amp; ACF Repeater Plugins" />
     <MESSAGE value="Make Movies In Home Page Dynamic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make Movies In Home Page Dynamic" />
+    <MESSAGE value="Movies Single Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Movies Single Page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -464,6 +483,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/single.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -472,18 +499,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/index.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Movie.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="46" />
+        <state relative-caret-position="486">
+          <caret line="89" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Movie.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/Bright-Creations-Task/Single-Article.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+        <state relative-caret-position="188">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
